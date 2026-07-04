@@ -1,4 +1,4 @@
-# 3-DOF Robotic Manipulator
+# Robotic-Manipulator
 
 ## 📌 Overview
 
