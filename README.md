@@ -54,6 +54,8 @@ The project includes the robot description, individual **STL (.stl) mesh files**
 ## 📸 Project Preview
 
 <img width="1167" height="702" alt="Screenshot 2026-07-04 195502" src="https://github.com/user-attachments/assets/f7d9a4b8-cebc-4fd4-99a6-fceea5692f1c" />
+<img width="918" height="450" alt="Screenshot 2026-05-13 233717" src="https://github.com/user-attachments/assets/01d2fc5c-7a80-4de9-bf23-0b70eb4ae0de" />
+
 
 ---
 
